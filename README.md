@@ -1,6 +1,6 @@
-<p align="center"> 
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl0eDFibjJsbDBldDJmaXFjMmpleGRnaWFweDcycjVicWxudWhqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DE8j6Jv8arjkEYCKq/giphy.gif)
-</p>
+ <p align="center"> 
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlqNzhkejIzYnFpeDYzd29oNHJuZTljNHR4enY1Y3lpNHlmMXl4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/brsEO1JayBVja/giphy.gif"></img>
+ </p>
 </center>
 <h1 align="center">Hi 👋, I'm SAMEER FEROZ</h1>
 <h3 align="center">FRONT-END DEVELOPER</h3>
