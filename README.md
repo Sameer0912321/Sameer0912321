@@ -1,5 +1,5 @@
 <center>
-![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcxenM3MG94Z3FvbXNqb3h6aHZzdmk1bTd2MG84dXFvdjNuOGE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1w0yvMxBIv5M8WkL8/giphy.gif)
+[gif(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcxenM3MG94Z3FvbXNqb3h6aHZzdmk1bTd2MG84dXFvdjNuOGE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1w0yvMxBIv5M8WkL8/giphy.gif)
   
 </center>
 <h1 align="center">Hi 👋, I'm SAMEER FEROZ</h1>
